@@ -1,0 +1,23 @@
+sort1 uses: Bubble sort
+
+How do you know?:
+This mean seems to take much more time than other two.
+Because it compares only two numbers at one time and swap them, it's a slow way.
+
+sort2 uses: Merge sort
+
+How do you know?:
+Because this sort2 was the fastest way.
+Merge sort splits list into two and then it starts sorting small to large. It can effectively sort list because of dividing.
+
+
+sort3 uses: Selection sort
+
+How do you know?:
+Selection sort can sort faster than Bubble sort, but later than Merge sort.
+This mean sorts by picking smallest/largest numbers in list at that time.
+
+
+307s sort1 bubble
+057s sort2 marge
+206s sort3 selection
